@@ -1,0 +1,28 @@
+{
+  "questions": [
+    {
+      "question": "What is you name",
+      "type": "String"
+    },
+    {
+      "question": "What is you age",
+      "type": "Integer"
+    },
+    {
+      "question": "What is you gender",
+      "type": "String"
+    },
+    {
+     "question": "What is your education qualification",
+      "type": "String"
+    },
+    {
+      "question": "What is your favorite color",
+      "type": "String"
+    },
+    {
+     "question": "How far is your office from home",
+      "type": "Integer"
+    }
+  ]
+}
